@@ -4,6 +4,7 @@ https://blog.csdn.net/qq_39135287/article/details/84260724 部署tomcat和solr�
 
 # tomcat命令
 source /etc/profile
+
 /usr/local/tomcat9/bin/shutdown.sh
 
 /usr/local/tomcat9/bin/startup.sh
