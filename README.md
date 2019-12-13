@@ -5,9 +5,13 @@ https://blog.csdn.net/qq_39135287/article/details/84260724 部署tomcat和solr�
 # tomcat命令
 source /etc/profile
 /usr/local/tomcat9/bin/shutdown.sh
+
 /usr/local/tomcat9/bin/startup.sh
 # 主要路径
-/usr/local/software/solr_software/solr-8.3.1/server/solr\n
-/usr/local/tomcat9/webapps/solr/WEB-INF\n
-/usr/local/software/solr_software/solr_home\n
-/usr/local/software/solr_software/solr-8.3.1/server/solr-webapp/webapp/WEB-INF\n
+/usr/local/software/solr_software/solr-8.3.1/server/solr
+
+/usr/local/tomcat9/webapps/solr/WEB-INF
+
+/usr/local/software/solr_software/solr_home
+
+/usr/local/software/solr_software/solr-8.3.1/server/solr-webapp/webapp/WEB-INF
